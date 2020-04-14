@@ -7,3 +7,5 @@ This is a simple readme file
 Just something going on.
 
 Updates in stage
+
+Added some lines to README in the working directory
